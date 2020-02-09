@@ -25,6 +25,12 @@ gcloud config set project letsplay-265908
 gcloud config list
 ```
 
+#### Interactive shell Beta ( tab completion and intellisense)
+
+```bash
+gcloud beta interactive
+```
+
 #### Create VPC and subnet
 
 ```bash
