@@ -14,7 +14,7 @@ sudo apt-get update && sudo apt-get install google-cloud-sdk
 #### Login and Verify
 
 ```bash
-# Login
+# Login (a URL will be given to grab the oAuth token from a browser)
 gcloud auth login
 
 # Set the project with project ID i.e. letsplay-265908
